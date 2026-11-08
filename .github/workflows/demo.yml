@@ -35,4 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       - name: Run a test case
-        run: Test case passed
+        run: echo Test case passed
